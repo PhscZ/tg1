@@ -49,20 +49,30 @@ Durante todo esse tempo já me aventurei com diversos projetos: inúmeros websit
 - Redis, Cassandra, CouchDB
 
 ## PROJETOS
-<details>
-<summary>1º semestre</summary>
-</br>
 
-**Empresa:** FATEC SJC</br>
-**Problema:** Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento.</br><
-[Github](https://github.com/Equipe-FULLSTACK/API-2)</br>
-**Solução:** Desenvolvimento de um sistema web onde um administrador pode cadastrar salas e visualizar tickets enviados pelos usuários sobre possiveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptavel e editavel. 
+### 1º semestre (2022-2)
+- Empresa: FATEC SJC
+- Problema: Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento.
+- [Github](https://github.com/Equipe-FULLSTACK/API-2)
+- Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificavel de acordo com mudanças na sala. 
 
-**Tecnologias:**
-- Python + Flask
-- HTML + CSS
-- SQLite
+#### Tecnologias
+- Python + Flask para o backend e execução do CRUD
+- JavaScript para a customização das salas
+- HTML + CSS para o frontend
+- SQLite para o backend, como sistema de banco de dados
 
-**Minha contribuição à equipe**
-Desenvolvi primariamente o sistema de layout de salas - totalmente sozinho - utilizando JavaScript. Mas também fiz a integração com o banco de dados, planejamento do banco de dados e algumas telas do front-end.
-</details>
+#### Minha contribuição à equipe
+Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - totalmente sozinho - utilizando JavaScript. Mas também fiz a integração com o banco de dados SQLite com os dados enviados pelo frontend, utilizando Python com a biblioteca Flask, fiz o planejamento do banco de dados e a criação de tal e algumas telas do front-end como a inicial, a do report do problema e a lista de problemas reportados.
+
+#### Hard Skills
+- Python + Flash: Consigo ensinar
+- JavaScript: Consigo ensinar
+- HTML + CSS: Consigo ensinar
+- SQLite: Consigo ensinar
+
+#### Soft Skills
+- Proatividade: Fui o membro da equipe que mais foi atrás de desenvolver os requisitos, indo atrás os colegas com dificuldade pois a maioria eram iniciantes.
+- Pensamento crítico: Critiquei diversos pontos que acreditava não serem relevantes ao projeto que foram propostos por outros membros da equipe, gerando discussões necessárias para o desenvolvimento da aplicação.
+- Empatia: Como a maioria da equipe era iniciante na área da programação, fui atrás de ajudar diversos membros, passando meu conhecimento e guiando eles quanto a isso.
+- Resiliência: Mesmo quando meus colegas perdiam as esperanças ou estavam perdidos em relação a aplicação, segui em frente e fiz mais que o necessário para entregar os resultados necessários.

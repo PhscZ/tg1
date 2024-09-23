@@ -49,3 +49,20 @@ Durante todo esse tempo já me aventurei com diversos projetos: inúmeros websit
 - Redis, Cassandra, CouchDB
 
 ## PROJETOS
+<details>
+<summary>1º semestre</summary>
+</br>
+
+**Empresa:** *FATEC SJC*</br></br>
+**Problema:** Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento. </br></br>
+
+[Github](https://github.com/Equipe-FULLSTACK/API-2)</br>
+
+**Tecnologias:**
+- Python + Flask
+- HTML + CSS
+- SQLite
+
+**Minha contribuição à equipe**
+Desenvolvi primariamente o sistema de layout de salas totalmente sozinho, utilizando JavaScript. Mas também fiz a integração com o banco de dados, planejamento do banco de dados e algumas telas do front-end.
+</details>

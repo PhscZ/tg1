@@ -53,10 +53,10 @@ Durante todo esse tempo já me aventurei com diversos projetos: inúmeros websit
 <summary>1º semestre</summary>
 </br>
 
-**Empresa:** *FATEC SJC*</br></br>
-**Problema:** Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento. </br></br>
-
+**Empresa:** FATEC SJC</br>
+**Problema:** Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento.</br><
 [Github](https://github.com/Equipe-FULLSTACK/API-2)</br>
+**Solução:** Desenvolvimento de um sistema web onde um administrador pode cadastrar salas e visualizar tickets enviados pelos usuários sobre possiveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptavel e editavel. 
 
 **Tecnologias:**
 - Python + Flask
@@ -64,5 +64,5 @@ Durante todo esse tempo já me aventurei com diversos projetos: inúmeros websit
 - SQLite
 
 **Minha contribuição à equipe**
-Desenvolvi primariamente o sistema de layout de salas totalmente sozinho, utilizando JavaScript. Mas também fiz a integração com o banco de dados, planejamento do banco de dados e algumas telas do front-end.
+Desenvolvi primariamente o sistema de layout de salas - totalmente sozinho - utilizando JavaScript. Mas também fiz a integração com o banco de dados, planejamento do banco de dados e algumas telas do front-end.
 </details>

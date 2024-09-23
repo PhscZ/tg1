@@ -9,11 +9,11 @@
 
 
 ## INTRODUÇÃO
-Meu nome é Pedro Henrique Siqueira Cardoso, tenho 22 anos e estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Mas tenho uma bagagem em relação a programação, tive meu primeiro interesse pela área quando era criança, em torno de meus 11 ou 12 anos, quando jogava jogos flash e queria fazer meus próprios, quando jogava Minecraft e queria fazer modificações no jogo, ou quando eu só queria entender como as coisas que eu fazia no computador funcionavam. Mas a jornada começou mesmo em 2017 aos 15, quando iniciei o Curso Técnico em Técnologia da Informação pela UNIVAP junto ao ensino médio, me formando no final de 2019.  
+Meu nome é Pedro Henrique Siqueira Cardoso, tenho 22 anos e estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Minha trajetória com programação começou cedo, quando eu tinha cerca de 11 ou 12 anos. Naquela época, meu interesse foi despertado enquanto jogava jogos em Flash e queria criar meus próprios, ou enquanto jogava Minecraft e desejava modificar o jogo. Também me intrigava entender como as coisas que eu fazia no computador funcionavam. No entanto, minha jornada na área começou formalmente em 2017, aos 15 anos, quando iniciei o Curso Técnico em Tecnologia da Informação pela UNIVAP, simultaneamente ao ensino médio, concluindo em 2019.
 
-Do inicio até o atual momento, sempre tive interesse em fazer serviços individuais, atuando como freelancer de 2018 até os dias atuais - com periodos de maior atividade e menor atividade - servi ao exército em 2020 e me matriculei na FATEC em 2021 buscando voltar para a area que já tinha experiência, buscando evoluir de uma forma mais tradicional para atingir maior estabilidade no futuro.
+Desde o início, sempre tive interesse em trabalhos autônomos, atuando como freelancer desde 2018 até o presente — com períodos de maior e menor atividade. Em 2020, servi ao exército, e em 2021, me matriculei na FATEC com o objetivo de retornar à área em que já tinha experiência, buscando um desenvolvimento mais estruturado para alcançar maior estabilidade no futuro.
 
-Durante todo esse tempo já me aventurei com diversos projetos: inúmeros websites para os mais diferentes tipos de usos, correções de código, extensões para o Chrome, ferramentas de conversão de arquivos, modificações para jogos, diversos scripts Shell, projetos envolvendo computação gráfica com OpenGL e Vulkan, sem falar nos muitos projetos que fiz tanto no curso técnico tanto na faculdade. Também já fiz serviços relacionados a testes de penetração e outras coisas que são consideradas como "hacking", obviamente tudo dentro do sensato em busca da segurança, sendo um usuário de Black Arch Linux.
+Ao longo desse tempo, me envolvi em uma série de projetos diversos: criei inúmeros websites para diferentes finalidades, realizei correções de código, desenvolvi extensões para o Chrome, ferramentas de conversão de arquivos, modificações para jogos, scripts Shell variados, e projetos de computação gráfica utilizando OpenGL e Vulkan. Além disso, participei de muitos projetos tanto no curso técnico quanto na faculdade. Também já trabalhei com testes de penetração e outras atividades que envolvem segurança da informação, sempre dentro dos limites da ética, utilizando ferramentas como o Black Arch Linux.
 
 ## CONTATOS
 
@@ -72,7 +72,7 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 - SQLite: Consigo ensinar
 
 #### Soft Skills
-- Proatividade: Fui o membro da equipe que mais foi atrás de desenvolver os requisitos, indo atrás os colegas com dificuldade pois a maioria eram iniciantes.
+- Proatividade: Fui o membro da equipe que mais foi atrás de desenvolver os requisitos, indo atrás dos colegas com dificuldade pois a maioria eram iniciantes.
 - Pensamento crítico: Critiquei diversos pontos que acreditava não serem relevantes ao projeto que foram propostos por outros membros da equipe, gerando discussões necessárias para o desenvolvimento da aplicação.
 - Empatia: Como a maioria da equipe era iniciante na área da programação, fui atrás de ajudar diversos membros, passando meu conhecimento e guiando eles quanto a isso.
 - Resiliência: Mesmo quando meus colegas perdiam as esperanças ou estavam perdidos em relação a aplicação, segui em frente e fiz mais que o necessário para entregar os resultados necessários.

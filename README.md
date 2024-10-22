@@ -55,7 +55,7 @@ Sempre em busca de novas oportunidades, tanto formalmente na forma de um emprego
 ### 1º semestre (2022-2)
 - Empresa: FATEC SJC, professores Jean e Egidio
 - Problema: Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento.
-- [Github](https://github.com/Equipe-FULLSTACK/API-2)
+- [Github](https://github.com/TerramEtVeru/API_Suporte_Fatec)
 - Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificavel de acordo com mudanças na sala. 
 
 #### Tecnologias
@@ -78,3 +78,26 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 - Pensamento crítico: Critiquei diversos pontos que acreditava não serem relevantes ao projeto que foram propostos por outros membros da equipe, um exemplo sendo a discussão se os cargos deveriam ser fixos ou algo que o usuário do software poderia escolher, gerando discussões necessárias para o desenvolvimento da aplicação.
 - Empatia: Como a maioria da equipe era iniciante na área da programação, não tendo literalmente nenhuma experiência na área, fui atrás de ajudar diversos membros, passando meu conhecimento e guiando eles quanto a isso.
 - Resiliência: Mesmo quando meus colegas perdiam as esperanças ou estavam perdidos em relação a aplicação, segui em frente e fiz mais que o necessário para entregar os resultados necessários.
+
+
+### 2º semestre (2023-1)
+- Empresa: FATEC SJC, professor Giuliano Bertoti
+- Problema: Desenvolver um sistema desktop para gerenciamento de aulas, com aulas, tarefas, turmas, alunos e estatisticas.
+- [Github](https://github.com/Equipe-FULLSTACK/API-2)
+- Solução: Desenvolvimento de um sistema desktop com sistema de cadastro de aulas, tarefas, alunos e turmas, onde é possível cadastrar alunos em uma turma, uma tarefa para um ou varios alunos (também para todos os alunos de uma turma), também o cadastro de aulas relacionadas a uma turma em especifico podendo modificar os alunos independente da turma (para casos raros e excessões), também uma página inicial com todas as informações relevantes no dia-a-dia, e uma área de estatisticas relacionadas aos dados selecionados, como uma tarefa ou uma turma, também uma tela com multiplos temas a serem selecionados.
+
+#### Tecnologias
+- Java, com a Swing para o frontend e H2 SQL para o banco de dados.
+
+#### Minha contribuição à equipe
+Fui o PO, estive envolvido em todos os aspectos do software, criei o código base para a geração das telas do frontend e seus objetos, além de desenvolver a prototipação de todas as telas e mostrar elas para o cliente. Desenvolvi o sistema de cadastro de todos os campos, a integração entre as telas, a integração com as bibliotecas externas de calendário e gráficos, a integração com o banco de dados SQL h2 e o sistema de multiplos estilos. Também apresentei o projeto para o professor.
+
+#### Hard Skills
+- Java: Consigo ensinar
+
+#### Soft Skills
+- Proatividade: Fui o membro da equipe que mais contribuiu para o projeto como mencionado anteriormente, também fui o membro da equipe que fez a comunicação com o cliente e as apresentações, acabei pegando a grande maioria das responsabilidades nesse API.
+- Resiliência: O projeto acabou sendo consideravelmente grande em relação a linhas de código, e em um momento teve muitos bugs, mas acabei não desistindo e focando até o final para resolver os problemas, principalmente em relação a salas e seus alunos possuindo tarefas de uma forma adaptativa, também tive que refazer diversas partes do software multiplas vezes, por bugs ou por não estarem de acordo com a preferência do cliente, exemplos sendo a tela inicial e de cadastro dos alunos, salas e tarefas.
+- Gerenciamento de tempo: Assim como mencionado anteriormente, fui o membro que mais contribuiu código, acabei tendo que gerenciar muito bem meu tempo para poder entregar tudo, principalmente considerando que se eu não fizesse minha parte os outros membros não podiam trabalhar na deles. Isso acabou se mantendo por todas as sprints pois sempre tinha uma nova task para ser desenvolvida, também o fato da equipe ser apenas composta por 4 membros, todos nós tivemos que gerenciar bem nosso tempo.
+- Criatividade: Como eu fui o membro que projetou todo o layout e tive que fazer os fundamentos do software, acabei pensando fora do comum na abordagem de alguns problemas, principalmente relacionados ao código interno, como na parte de integração com o banco de dados, e principalmente em relação a bibliotecas externas que usamos para pequenas features, como a seleção de datas e a parte dos gráficos, pois existia uma grande falta de documentação para tais e muitas opções a serem utilizadas, acabei indo contra o que eu estava acostumado no design de muitas coisas, pois já tinha trabalhado com Java e Swing no passado.
+

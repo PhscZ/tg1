@@ -15,6 +15,8 @@ Desde o início, sempre tive interesse em trabalhos autônomos, atuando como fre
 
 Ao longo desse tempo, me envolvi em uma série de projetos diversos: criei inúmeros websites para diferentes finalidades, realizei correções de código, desenvolvi extensões para o Chrome, ferramentas de conversão de arquivos, modificações para jogos, scripts Shell variados, e projetos de computação gráfica utilizando OpenGL e Vulkan. Além disso, participei de muitos projetos tanto no curso técnico quanto na faculdade. Também já trabalhei com testes de penetração e outras atividades que envolvem segurança da informação, sempre dentro dos limites da ética, utilizando ferramentas como o Black Arch Linux.
 
+Sempre em busca de novas oportunidades, tanto formalmente na forma de um emprego fixo, tanto como freelancer.
+
 ## CONTATOS
 
 - [E-mail](mailto:pz020609@gmail.com)
@@ -51,7 +53,7 @@ Ao longo desse tempo, me envolvi em uma série de projetos diversos: criei inúm
 ## PROJETOS
 
 ### 1º semestre (2022-2)
-- Empresa: FATEC SJC
+- Empresa: FATEC SJC, professores Jean e Egidio
 - Problema: Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento.
 - [Github](https://github.com/Equipe-FULLSTACK/API-2)
 - Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificavel de acordo com mudanças na sala. 
@@ -72,7 +74,7 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 - SQLite: Consigo ensinar
 
 #### Soft Skills
-- Proatividade: Fui o membro da equipe que mais foi atrás de desenvolver os requisitos, indo atrás dos colegas com dificuldade pois a maioria eram iniciantes.
-- Pensamento crítico: Critiquei diversos pontos que acreditava não serem relevantes ao projeto que foram propostos por outros membros da equipe, gerando discussões necessárias para o desenvolvimento da aplicação.
-- Empatia: Como a maioria da equipe era iniciante na área da programação, fui atrás de ajudar diversos membros, passando meu conhecimento e guiando eles quanto a isso.
+- Proatividade: Fui o membro da equipe que mais foi atrás de desenvolver os requisitos anteriormente mencionados, como o layout de sala, indo atrás dos colegas com dificuldade pois a maioria eram iniciantes com literalmente nenhuma experiência, ajudando eles com suas tarefas como em todas as telas do front-end menos na parte de gráficos.
+- Pensamento crítico: Critiquei diversos pontos que acreditava não serem relevantes ao projeto que foram propostos por outros membros da equipe, um exemplo sendo a discussão se os cargos deveriam ser fixos ou algo que o usuário do software poderia escolher, gerando discussões necessárias para o desenvolvimento da aplicação.
+- Empatia: Como a maioria da equipe era iniciante na área da programação, não tendo literalmente nenhuma experiência na área, fui atrás de ajudar diversos membros, passando meu conhecimento e guiando eles quanto a isso.
 - Resiliência: Mesmo quando meus colegas perdiam as esperanças ou estavam perdidos em relação a aplicação, segui em frente e fiz mais que o necessário para entregar os resultados necessários.

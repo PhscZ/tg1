@@ -87,7 +87,7 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 - Solução: Desenvolvimento de um sistema desktop com sistema de cadastro de aulas, tarefas, alunos e turmas, onde é possível cadastrar alunos em uma turma, uma tarefa para um ou varios alunos (também para todos os alunos de uma turma), também o cadastro de aulas relacionadas a uma turma em especifico podendo modificar os alunos independente da turma (para casos raros e excessões), também uma página inicial com todas as informações relevantes no dia-a-dia, e uma área de estatisticas relacionadas aos dados selecionados, como uma tarefa ou uma turma, também uma tela com multiplos temas a serem selecionados.
 
 #### Tecnologias
-- Java, com a Swing para o frontend e H2 SQL para o banco de dados.
+- Java com Swing para o frontend e H2 SQL para o banco de dados.
 
 #### Minha contribuição à equipe
 Fui o PO, estive envolvido em todos os aspectos do software, criei o código base para a geração das telas do frontend e seus objetos, além de desenvolver a prototipação de todas as telas e mostrar elas para o cliente. Desenvolvi o sistema de cadastro de todos os campos, a integração entre as telas, a integração com as bibliotecas externas de calendário e gráficos, a integração com o banco de dados SQL h2 e o sistema de multiplos estilos. Também apresentei o projeto para o professor.
@@ -101,3 +101,30 @@ Fui o PO, estive envolvido em todos os aspectos do software, criei o código bas
 - Gerenciamento de tempo: Assim como mencionado anteriormente, fui o membro que mais contribuiu código, acabei tendo que gerenciar muito bem meu tempo para poder entregar tudo, principalmente considerando que se eu não fizesse minha parte os outros membros não podiam trabalhar na deles. Isso acabou se mantendo por todas as sprints pois sempre tinha uma nova task para ser desenvolvida, também o fato da equipe ser apenas composta por 4 membros, todos nós tivemos que gerenciar bem nosso tempo.
 - Criatividade: Como eu fui o membro que projetou todo o layout e tive que fazer os fundamentos do software, acabei pensando fora do comum na abordagem de alguns problemas, principalmente relacionados ao código interno, como na parte de integração com o banco de dados, e principalmente em relação a bibliotecas externas que usamos para pequenas features, como a seleção de datas e a parte dos gráficos, pois existia uma grande falta de documentação para tais e muitas opções a serem utilizadas, acabei indo contra o que eu estava acostumado no design de muitas coisas, pois já tinha trabalhado com Java e Swing no passado.
 
+
+
+### 3º semestre (2023-2)
+- Empresa: Ionic Health
+- Problema: Desenvolver uma plataforma web que funcione tanto em um computador desktop e em mobile para a equipe regulatória e organizacional da Ionic, que possui processos com etapas, responsaveis e prazos. Também um sistema de permissões e cargos, anexos, envio de email e autenticação de dois fatores.
+- [Github](https://github.com/TerramEtVeru/API_Suporte_Fatec)
+- Solução: Desenvolvimento de um sistema web com sistema de login e gerenciamento de usuários, notificações, cadastro e gerenciamento de processos, tarefas/tasks/etapas, tudo podendo possuir responsaveis e prazos. Com um sistema de anexos, envio de emails e autenticação de dois fatores. Também foi desenvolvido um sistema de cargos e permissões.
+
+#### Tecnologias
+- React como frontend
+- Node.js como backend
+- JavaScript e TypeScript como linguagens de programação principais
+- MySQL como sistema de banco de dados
+
+#### Minha contribuição à equipe
+Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum Master para o gerenciamento das tasks das sprints e os requisitos funcionais, chegando até a ir na sede da empresa, e fiz as apresentações, também fiz a integração base do backend e todo o sistema base do backend, ambos tanto na parte de processos e suas tarefas, tanto em relação ao sistema de usuários e permissões e cargos. Fiz o sistema de arquivos e acabei fazendo o sistema de email.
+
+#### Hard Skills
+- React: Consigo fazer com ajuda
+- Node.js: Consigo ensinar
+- JavaScript e Typescript: Consigo ensinar
+- MySQL: Consigo ensinar
+
+#### Soft Skills
+- Resiliência: Na primeira entrega, achavamos que estava tudo bem encaminhado, mas na segunda vimos que a visão do cliente era um tanto diferente da nossa, e tivemos que fazer muitas coisas e reestruturar quase tudo, exemplos sendo o sistema de relação de tarefas e processos que foi refeito 3 vezes, isso foi relativamente frustrante e trabalhoso de se lidar, também houve o dilema da falta de comunicação do cliente em diversos momentos, atrapalhando ainda mais o desenvolvimento, mas apesar de tudo acabamos conseguindo desenvolver o software. Além de membros que não fizeram suas entregas corretamente, logo outros tendo que as completar, exemplo sendo o sistema de email e autenticação de dois fatores.
+- Proatividade: Fui o PO e logo acabei tendo que tomar a iniciativa de muitas coisas, indo atrás de fazer muitas coisas, como na primeira sprint onde faltavam muitas features que deviamos entregar e acabei desenvolvendo elas sozinho, além de ajudar diversos membros com suas tasks, como no sistema de email (que acabou não funcionando e teve que ser refeito) e no sistema de autenticação de dois fatores. Também fui atrás de comunicar com a empresa.
+- Gerenciamento de tempo: Acabamos tendo que refazer muita coisa, e isso foi muito intenso em relação ao tempo de desenvolvimento, então tive que ser muito eficiente principalmente na terceira e quarta sprint, tive que reescrever algumas partes como o sistema de relação de tarefas e processos multiplas vezes, mas de forma eficiente para conseguir fazer as entregas.

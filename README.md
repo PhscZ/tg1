@@ -68,7 +68,7 @@ Sempre em busca de novas oportunidades, tanto formalmente na forma de um emprego
 Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - totalmente sozinho - utilizando JavaScript. Mas também fiz a integração com o banco de dados SQLite com os dados enviados pelo frontend, utilizando Python com a biblioteca Flask, fiz o planejamento do banco de dados e a criação de tal e algumas telas do front-end como a inicial, a do report do problema e a lista de problemas reportados.
 
 #### Hard Skills
-- Python + Flash: Consigo ensinar
+- Python + Flask: Consigo ensinar
 - JavaScript: Consigo ensinar
 - HTML + CSS: Consigo ensinar
 - SQLite: Consigo ensinar
@@ -87,7 +87,7 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 - Solução: Desenvolvimento de um sistema desktop com sistema de cadastro de aulas, tarefas, alunos e turmas, onde é possível cadastrar alunos em uma turma, uma tarefa para um ou varios alunos (também para todos os alunos de uma turma), também o cadastro de aulas relacionadas a uma turma em especifico podendo modificar os alunos independente da turma (para casos raros e excessões), também uma página inicial com todas as informações relevantes no dia-a-dia, e uma área de estatisticas relacionadas aos dados selecionados, como uma tarefa ou uma turma, também uma tela com multiplos temas a serem selecionados.
 
 #### Tecnologias
-- Java com Swing para o frontend e H2 SQL para o banco de dados.
+- Java + Java Swing para o frontend e H2 SQL para o banco de dados.
 
 #### Minha contribuição à equipe
 Fui o PO, estive envolvido em todos os aspectos do software, criei o código base para a geração das telas do frontend e seus objetos, além de desenvolver a prototipação de todas as telas e mostrar elas para o cliente. Desenvolvi o sistema de cadastro de todos os campos, a integração entre as telas, a integração com as bibliotecas externas de calendário e gráficos, a integração com o banco de dados SQL h2 e o sistema de multiplos estilos. Também apresentei o projeto para o professor.
@@ -106,7 +106,7 @@ Fui o PO, estive envolvido em todos os aspectos do software, criei o código bas
 ### 3º semestre (2023-2)
 - Empresa: Ionic Health
 - Problema: Desenvolver uma plataforma web que funcione tanto em um computador desktop e em mobile para a equipe regulatória e organizacional da Ionic, que possui processos com etapas, responsaveis e prazos. Também um sistema de permissões e cargos, anexos, envio de email e autenticação de dois fatores.
-- [Github](https://github.com/TerramEtVeru/API_Suporte_Fatec)
+- [Github](https://github.com/Equipe-FULLSTACK/API-3)
 - Solução: Desenvolvimento de um sistema web com sistema de login e gerenciamento de usuários, notificações, cadastro e gerenciamento de processos, tarefas/tasks/etapas, tudo podendo possuir responsaveis e prazos. Com um sistema de anexos, envio de emails e autenticação de dois fatores. Também foi desenvolvido um sistema de cargos e permissões.
 
 #### Tecnologias
@@ -128,3 +128,31 @@ Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum 
 - Resiliência: Na primeira entrega, achavamos que estava tudo bem encaminhado, mas na segunda vimos que a visão do cliente era um tanto diferente da nossa, e tivemos que fazer muitas coisas e reestruturar quase tudo, exemplos sendo o sistema de relação de tarefas e processos que foi refeito 3 vezes, isso foi relativamente frustrante e trabalhoso de se lidar, também houve o dilema da falta de comunicação do cliente em diversos momentos, atrapalhando ainda mais o desenvolvimento, mas apesar de tudo acabamos conseguindo desenvolver o software. Além de membros que não fizeram suas entregas corretamente, logo outros tendo que as completar, exemplo sendo o sistema de email e autenticação de dois fatores.
 - Proatividade: Fui o PO e logo acabei tendo que tomar a iniciativa de muitas coisas, indo atrás de fazer muitas coisas, como na primeira sprint onde faltavam muitas features que deviamos entregar e acabei desenvolvendo elas sozinho, além de ajudar diversos membros com suas tasks, como no sistema de email (que acabou não funcionando e teve que ser refeito) e no sistema de autenticação de dois fatores. Também fui atrás de comunicar com a empresa.
 - Gerenciamento de tempo: Acabamos tendo que refazer muita coisa, e isso foi muito intenso em relação ao tempo de desenvolvimento, então tive que ser muito eficiente principalmente na terceira e quarta sprint, tive que reescrever algumas partes como o sistema de relação de tarefas e processos multiplas vezes, mas de forma eficiente para conseguir fazer as entregas.
+
+
+
+### 4º semestre (2024-1)
+- Empresa: SIATT
+- Problema: Desenvolver um sistemapara o gerenciamento de reserva de salas de reunião, possuindo multiplos tipos de sala, tipos de reuniões e tipos de usuários com cargos diferentes.
+- [Github](https://github.com/Equipe-FULLSTACK/API-4)
+- Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, cadastro e gerenciamento de salas, reuniões e permissões/cargos, tudo relacionado a horários, possuindo um sistema de agendamento.
+
+#### Tecnologias
+- React como frontend
+- Node.js como backend
+- JavaScript e TypeScript como linguagens de programação principais
+- MySQL como sistema de banco de dados
+
+#### Minha contribuição à equipe
+Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integração base das rotas do backend, além do processamento de dados relacionados, mas isso acabou sendo uma task que envolvia multiplas pessoas, também fiz a base fundamental da integração com o Zoom, mas que acabou também se tornando uma task que envolvia multiplas pessoas. Também ajudei no planejamento e execução do banco de dados.
+
+#### Hard Skills
+- React: Consigo fazer com ajuda
+- Node.js: Consigo ensinar
+- JavaScript e Typescript: Consigo ensinar
+- MySQL: Consigo ensinar
+
+#### Soft Skills
+- Criatividade: Tive que inventar muita coisa e "me virar" para resolver varios problemas relacionados a integração com o Zoom, pois ninguém sabia de nada relacionado a isso e a documentação muitas vezes não era clara, mas com experimentação e raciocinio acabou sendo resolvido o dilema.
+- Flexibilidade: Acabei tendo que sair do que estou acostumado e de minhas preferencias, por não ter colaborado tanto como nas APIs anteriores, tendo que utilizar código com uma estrutura diferente, além de uma abordagem um tanto diferente, exemplos sendo as rotas do CRUD do backend, e todo o padrão do código.
+- Trabalho em equipe: Acabei dependendo mais da minha equipe, além de membros que dependiam de mim, pois a maioria das tasks da sprint eram simples, mas trabalhosas e tinham de ser resolvidas por multiplas pessoas.

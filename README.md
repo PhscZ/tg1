@@ -132,7 +132,7 @@ Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum 
 
 
 ### 4º semestre (2024-1)
-- Empresa: SIATT
+- Empresa: SIATT, Sistemas Integrados de Alto Teor Tecnológico na área de defesa e aeroespacial.
 - Problema: Desenvolver um sistemapara o gerenciamento de reserva de salas de reunião, possuindo multiplos tipos de sala, tipos de reuniões e tipos de usuários com cargos diferentes.
 - [Github](https://github.com/Equipe-FULLSTACK/API-4)
 - Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, cadastro e gerenciamento de salas, reuniões e permissões/cargos, tudo relacionado a horários, possuindo um sistema de agendamento.
@@ -156,3 +156,31 @@ Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integra
 - Criatividade: Tive que inventar muita coisa e "me virar" para resolver varios problemas relacionados a integração com o Zoom, pois ninguém sabia de nada relacionado a isso e a documentação muitas vezes não era clara, mas com experimentação e raciocinio acabou sendo resolvido o dilema.
 - Flexibilidade: Acabei tendo que sair do que estou acostumado e de minhas preferencias, por não ter colaborado tanto como nas APIs anteriores, tendo que utilizar código com uma estrutura diferente, além de uma abordagem um tanto diferente, exemplos sendo as rotas do CRUD do backend, e todo o padrão do código.
 - Trabalho em equipe: Acabei dependendo mais da minha equipe, além de membros que dependiam de mim, pois a maioria das tasks da sprint eram simples, mas trabalhosas e tinham de ser resolvidas por multiplas pessoas.
+
+
+
+### 5º semestre (2024-2)
+- Empresa: Kersys, empresa de gestão florestal
+- Problema: Acompanhamento de dados climáticos de um ponto especifico para produtores rurais.
+- [Github](https://github.com/Equipe-FULLSTACK/API-5)
+- Solução: Desenvolvimento de um aplicativo mobile com sistema de cadastro de pontos, exibindo dados climáticos (temperatura, pluviometria e umidade) desses locais. Os dados são apresentados em tempo real mas possuem um histórico, visível por meio de gráficos. O sistema inclui notificações customizáveis caso algum valor de um ponto ultrapasse um limiar definido.
+
+#### Tecnologias
+- React native como frontend
+- Node.js como backend
+- JavaScript e TypeScript como linguagens de programação principais
+- MongoDB como sistema de banco de dados
+
+#### Minha contribuição à equipe
+Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicação com o cliente. Além disso, também trabalhei no backend, focando principalmente com as integrações com APIs internas, como do Google Maps, API de dados climáticos da NASA e depois a Weather Forecast API da Open-Meteo.
+
+#### Hard Skills
+- React: Consigo fazer com ajuda
+- Node.js: Consigo ensinar
+- JavaScript e Typescript: Consigo ensinar
+- MongoDB: Consigo ensinar
+
+#### Soft Skills
+- Trabalho em equipe: Acabamos definindo poucas tasks para essa API ao todo, mas todas eram grandes e dependiam de múltiplas pessoas trabalhando juntas. Por exemplo, as notificações e os gráficos exigiam a integração com APIs climáticas, enquanto o sistema de pontos dependia da API do Google Maps. A colaboração foi essencial para o sucesso.
+- Gerenciamento de tempo: Lidamos com muitos projetos simultâneos neste semestre. A gestão de tempo para concluir todas as atividades propostas foi um desafio, especialmente porque muitos membros da equipe trabalhavam em horários diferentes. Isso exigiu que as reuniões fossem bem planejadas e eficientes.
+- Adaptabilidade: Alteramos vários aspectos da aplicação ao longo das sprints, como a escolha das APIs, a estruturação do backend e ajustes baseados no feedback das apresentações.

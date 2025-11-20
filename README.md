@@ -17,6 +17,8 @@ Ao longo desse tempo, me envolvi em uma série de projetos diversos: criei inúm
 
 Sempre em busca de novas oportunidades, tanto formalmente na forma de um emprego fixo, tanto como freelancer.
 
+Recém contratado para estágio através de concurso público para a Secretaria de Assuntos Jurídicos da prefeitura de São José dos Campos.
+
 ## CONTATOS
 
 - [E-mail](mailto:pz020609@gmail.com)
@@ -185,3 +187,29 @@ Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicaç
 - Trabalho em equipe: Acabamos definindo poucas tasks para essa API ao todo, mas todas eram grandes e dependiam de múltiplas pessoas trabalhando juntas. Por exemplo, as notificações e os gráficos exigiam a integração com APIs climáticas, enquanto o sistema de pontos dependia da API do Google Maps. A colaboração foi essencial para o sucesso.
 - Gerenciamento de tempo: Lidamos com muitos projetos simultâneos neste semestre. A gestão de tempo para concluir todas as atividades propostas foi um desafio, especialmente porque muitos membros da equipe trabalhavam em horários diferentes. Isso exigiu que as reuniões fossem bem planejadas e eficientes.
 - Adaptabilidade: Alteramos vários aspectos da aplicação ao longo das sprints, como a escolha das APIs, a estruturação do backend e ajustes baseados no feedback das apresentações.
+
+
+
+### 6º semestre (2025-1)
+- Empresa: Dom Rock
+- Problema: A falta de informação para guiar paciêntes e principalmente cuidadores de tais pacientes quanto a questões relacionadas a doença de Alzheimer.
+- [Github](https://github.com/FATEC-FULLSTACK/API6)
+- Solução: Desenvolvimento de uma interface para fazer perguntas para dois LLMs (Large Language Models), onde executamos RLHF (Reinforcement Learning with Human Feedback) pois o usuário escolhe uma de duas respostas - uma provida por cada modelo - e avalia elas de diversas formas, isso tudo junto com a execução do RAG (Retrieval-Augmented Generation) baseado em um banco de dados vetorizado provido pela própria empresa.
+
+#### Tecnologias
+- Vue.js como frontend.
+- Python como backend, com diversas bibliotecas/frameworks, principalmente LangChain e FastAPI.
+- MongoDB como sistema de banco de dados, tanto relacional tanto vetorial.
+
+#### Minha contribuição à equipe
+Minha função foi a de Produt Owner (PO), sendo responsável pela comunicação com o cliente e por apresentar ao mesmo e a outros individuos relevantes ao projeto, como o professor responsável pela seleção dos artigos usados para a elaboração do banco de dados usado na execução do RAG no parque tecnológico. A comunição ao todo foi mais extensa que nas outras APIs, sem falar de como tive que interagir com o professor P2 muito mais. Além disso, ajudei em todos os aspectos de software de forma leve inicialmente pois o professor M2 disse que o PO e o SM não podiam fazer commits não relacionados a documentação, mas podiamos ajudar trabalhando junto com os próprios devs, ajudei majoritariamente no backend.
+
+#### Hard Skills
+- Vue.js: Consigo fazer com autonomia
+- Python: Consigo ensinar
+- MongoDB: Consigo fazer com autonomia
+
+#### Soft Skills
+- Trabalho em equipe: Como fui o PO, tive que comunicar muito com a equipe de desenvolvimento sobre requisitos funcionais e não funcionais e com o SM sobre a documentação bem mais extensa que nos outros semestres, nisso acabei interagindo muito socialmente e guiando a equipe de diversas formas, sabendo um pouco sobre tudo do software e sempre comunicando as ideias da equipe para o cliente, acredito que de todos os semestres foi o que a divisão de tarefas foi mais bem dividida e com menos problemas graças a tudo mencionado.
+- Proatividade: Como PO acabei tendo que tomar a iniciativa de muitas coisas; principalmente quanto a documentação que foi particularmente importante nesse projeto. Como a falta da documentação e dos requisitos do cliente - e de diversos outros aspectos, como o acesso ao banco vetorial e as preferencias estéticas do cliente - poderiam facilmente se tornar gargalos na eficiência do desenvolvimento do software, fui atrás de resolver esses problemas muito antes da possibilidade deles ocorrerem.
+- Empatia: Tivemos alguns problemas emocionais em nossa equipe e tentei ser o mais amigável possível com as pessoas que precisavam, para garantir a evolução do projeto.

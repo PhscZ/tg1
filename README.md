@@ -54,9 +54,9 @@ Sempre em busca de novas oportunidades, tanto formalmente na forma de um emprego
 
 ### 1º semestre (2022-2)
 - Empresa: FATEC SJC, professores Jean e Egidio
-- Problema: Desenvolver um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento.
+- Problema: Falta de controle sobre ordem de serviços nos laboratórios e quase nenhuma automação o processo de informação de equipamentos com mau funcionamento.
 - [Github](https://github.com/TerramEtVeru/API_Suporte_Fatec)
-- Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificavel de acordo com mudanças na sala. 
+- Solução: Desenvolvimento de um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificavel de acordo com mudanças na sala. 
 
 #### Tecnologias
 - Python + Flask para o backend e execução do CRUD
@@ -82,7 +82,7 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 
 ### 2º semestre (2023-1)
 - Empresa: FATEC SJC, professor Giuliano Bertoti
-- Problema: Desenvolver um sistema desktop para gerenciamento de aulas, com aulas, tarefas, turmas, alunos e estatisticas.
+- Problema: Falta de gerenciamento de aulas de uma professora, e falta de informações relacionadas as tarefas, turmas, alunos e estatisticas relacionados a tais aulas.
 - [Github](https://github.com/Equipe-FULLSTACK/API-2)
 - Solução: Desenvolvimento de um sistema desktop com sistema de cadastro de aulas, tarefas, alunos e turmas, onde é possível cadastrar alunos em uma turma, uma tarefa para um ou varios alunos (também para todos os alunos de uma turma), também o cadastro de aulas relacionadas a uma turma em especifico podendo modificar os alunos independente da turma (para casos raros e excessões), também uma página inicial com todas as informações relevantes no dia-a-dia, e uma área de estatisticas relacionadas aos dados selecionados, como uma tarefa ou uma turma, também uma tela com multiplos temas a serem selecionados.
 
@@ -105,7 +105,8 @@ Fui o PO, estive envolvido em todos os aspectos do software, criei o código bas
 
 ### 3º semestre (2023-2)
 - Empresa: Ionic Health
-- Problema: Desenvolver uma plataforma web que funcione tanto em um computador desktop e em mobile para a equipe regulatória e organizacional da Ionic, que possui processos com etapas, responsaveis e prazos. Também um sistema de permissões e cargos, anexos, envio de email e autenticação de dois fatores.
+- Problema: Nenhuma forma de organização e planejamento digital para a equipe regulatória da Ionic Health, que trabalha com processos que possuem etapas, responsaveis (com seus cargos e permissões) e prazos, causando um gargalo e baixa eficiência.
+- Desenvolver uma plataforma web que funcione tanto em um computador desktop e em mobile para a equipe regulatória e organizacional da Ionic, que possui processos com etapas, responsaveis e prazos. Também um sistema de permissões e cargos, anexos, envio de email e autenticação de dois fatores.
 - [Github](https://github.com/Equipe-FULLSTACK/API-3)
 - Solução: Desenvolvimento de um sistema web com sistema de login e gerenciamento de usuários, notificações, cadastro e gerenciamento de processos, tarefas/tasks/etapas, tudo podendo possuir responsaveis e prazos. Com um sistema de anexos, envio de emails e autenticação de dois fatores. Também foi desenvolvido um sistema de cargos e permissões.
 
@@ -133,9 +134,9 @@ Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum 
 
 ### 4º semestre (2024-1)
 - Empresa: SIATT, Sistemas Integrados de Alto Teor Tecnológico na área de defesa e aeroespacial.
-- Problema: Desenvolver um sistemapara o gerenciamento de reserva de salas de reunião, possuindo multiplos tipos de sala, tipos de reuniões e tipos de usuários com cargos diferentes.
+- Problema: A falta de um sistema próprio para o gerenciamento de reserva de salas de reunião, isso sendo feito através de programas de terceiros com documentação, comunicação e planejamento manuais.
 - [Github](https://github.com/Equipe-FULLSTACK/API-4)
-- Solução: Desenvolvimento de um sistema web com sistema de login e cadastro de usuários, cadastro e gerenciamento de salas, reuniões e permissões/cargos, tudo relacionado a horários, possuindo um sistema de agendamento.
+- Solução: Desenvolvimento de um sistema web para o gerenciamento de reserva de salas de reunião, possuindo multiplos de sala e tipos de reuniões, com sistema de login e cadastro de usuários, cadastro e gerenciamento de salas, reuniões e permissões/cargos, tudo relacionado a horários, possuindo um sistema de agendamento.
 
 #### Tecnologias
 - React como frontend
@@ -161,7 +162,7 @@ Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integra
 
 ### 5º semestre (2024-2)
 - Empresa: Kersys, empresa de gestão florestal
-- Problema: Acompanhamento de dados climáticos de um ponto especifico para produtores rurais.
+- Problema: A incapacidade do acompanhamento de dados climáticos de um ponto especifico para produtores rurais.
 - [Github](https://github.com/Equipe-FULLSTACK/API-5)
 - Solução: Desenvolvimento de um aplicativo mobile com sistema de cadastro de pontos, exibindo dados climáticos (temperatura, pluviometria e umidade) desses locais. Os dados são apresentados em tempo real mas possuem um histórico, visível por meio de gráficos. O sistema inclui notificações customizáveis caso algum valor de um ponto ultrapasse um limiar definido.
 

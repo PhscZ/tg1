@@ -49,7 +49,7 @@ Recém contratado para estágio através de concurso público para a Secretaria 
 - Godot, Unity
 
 #### Busco aprender/aplicar
-- C++, Erlang e Elixir, Kotlin, Ruby e Go
+- C++, Erlang e Elixir, Kotlin, Go
 - Redis, Cassandra, CouchDB
 
 ## PROJETOS

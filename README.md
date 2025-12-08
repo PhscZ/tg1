@@ -192,9 +192,9 @@ Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicaç
 
 ### 6º semestre (2025-1)
 - Empresa: Dom Rock
-- Problema: A falta de informação para guiar paciêntes e principalmente cuidadores de tais pacientes quanto a questões relacionadas a doença de Alzheimer.
+- Problema: A falta de informação para guiar pacientes e principalmente cuidadores de tais pacientes quanto a questões relacionadas a doença de Alzheimer.
 - [Github](https://github.com/FATEC-FULLSTACK/API6)
-- Solução: Desenvolvimento de uma interface para fazer perguntas para dois LLMs (Large Language Models), onde executamos RLHF (Reinforcement Learning with Human Feedback) pois o usuário escolhe uma de duas respostas - uma provida por cada modelo - e avalia elas de diversas formas, isso tudo junto com a execução do RAG (Retrieval-Augmented Generation) baseado em um banco de dados vetorizado provido pela própria empresa.
+- Solução: Desenvolvimento de uma interface para fazer perguntas para LLMs (Large Language Models) e o treinamento de tais modelos com RLHF (Reinforcement Learning with Human Feedback) e RAG (Retrieval-Augmented Generation).
 
 #### Tecnologias
 - Vue.js como frontend.
@@ -202,12 +202,12 @@ Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicaç
 - MongoDB como sistema de banco de dados, tanto relacional tanto vetorial.
 
 #### Minha contribuição à equipe
-Minha função foi a de Product Owner (PO), sendo responsável pela comunicação com o cliente e pela apresentação do projeto a ele e a outros indivíduos relevantes, como o professor responsável pela seleção dos artigos utilizados para a elaboração do banco de dados empregado na execução do RAG no Parque Tecnológico. A comunicação, como um todo, foi mais extensa do que nas outras APIs, além de eu ter tido que interagir muito mais com o professor P2.
-Além disso, auxiliei em todos os aspectos do software de forma leve inicialmente, pois o professor M2 havia informado que o PO e o SM não poderiam fazer commits não relacionados à documentação, embora pudéssemos ajudar trabalhando junto dos próprios desenvolvedores. Contribuí majoritariamente no backend, especialmente na primeira parte de integração com os modelos de IA e nas rotas. No entanto, o sistema acabou sendo refeito no final devido à adoção de streaming de dados.
+Minha função foi a de Product Owner (PO), sendo responsável pela comunicação com o cliente e pela apresentação do projeto a ele e a outros indivíduos relevantes, como o professor responsável pela seleção dos artigos utilizados para a elaboração do banco de dados empregado na execução do RAG no Parque Tecnológico. A comunicação, como um todo, foi mais extensa do que nas outras APIs, além de eu ter tido que interagir muito mais com o professor P2, como PO trabalhei na documentação (critérios, MVP, DOR, DOD, user stories e backlogs) e no mockup do projeto no Figma.
+Além disso, auxiliei em todos os aspectos do software de forma leve inicialmente, pois o professor M2 havia informado que o PO e o SM não poderiam fazer commits não relacionados à documentação, embora pudéssemos ajudar trabalhando junto dos próprios desenvolvedores. Contribuí majoritariamente no backend, especialmente na primeira parte de integração com os modelos de IA e nas rotas. No entanto, o sistema acabou sendo refeito no final devido à adoção de streaming de dados. Também fiz o layout de algumas páginas no frontend.
 
 #### Hard Skills
-- Vue.js: Consigo fazer com autonomia
 - Python: Consigo ensinar
+- Vue.js: Consigo fazer com autonomia
 - MongoDB: Consigo fazer com autonomia
 
 #### Soft Skills

@@ -34,7 +34,7 @@ Recém contratado para estágio através de concurso público para a Secretaria 
 - C#
 - PHP
 - Python (+ diversas bibliotecas, como Pytorch, Pandas, Matplotlib, Scikit-learn, Flask e Django)
-- JavaScript e TypeScript (+ diversas bibliotecas e frameworks, como Node.js, React e Svelte)
+- JavaScript e TypeScript (+ diversas bibliotecas e frameworks, como Node.js e Vue.js)
 - Shell
 
 #### Banco de dados
@@ -49,7 +49,7 @@ Recém contratado para estágio através de concurso público para a Secretaria 
 - Godot, Unity
 
 #### Busco aprender/aplicar
-- C++, Erlang e Elixir, Kotlin, Go
+- C++, Erlang e Elixir, Clojure, Kotlin, Go
 - Redis, Cassandra, CouchDB
 
 ## PROJETOS

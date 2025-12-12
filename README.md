@@ -1,6 +1,6 @@
 <div align="center">
   
-# PORTFOLIO
+# PORTFÓLIO
 
 <img src="pedro.png" alt="Foto minha" width="400"/>
 

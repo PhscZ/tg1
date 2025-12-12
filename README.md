@@ -56,9 +56,9 @@ Recém contratado para estágio através de concurso público para a Secretaria 
 
 ### 1º semestre (2022-2)
 - Empresa: FATEC SJC, professores Jean e Egidio
-- Problema: Falta de controle sobre ordem de serviços nos laboratórios e quase nenhuma automação o processo de informação de equipamentos com mau funcionamento.
+- Problema: Falta de controle sobre ordem de serviços nos laboratórios e quase nenhuma automação mo processo de informação de equipamentos com mau funcionamento.
 - [Github](https://github.com/TerramEtVeru/API_Suporte_Fatec)
-- Solução: Desenvolvimento de um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificavel de acordo com mudanças na sala. 
+- Solução: Desenvolvimento de um sistema web para controle de ordem de serviços para automatizar o processo de informação de equipamentos com mau funcionamento com sistema de login e cadastro de usuários, onde um administrador pode cadastrar salas e usuários, visualizar as salas, editar as salas, visualizar os usuários e visualizar tickets enviados pelos usuários sobre possíveis defeitos, com um sistema de criação do layout de sala com a numeração dos computadores totalmente adaptável e modificável de acordo com mudanças na sala. 
 
 #### Tecnologias
 - Python + Flask para o backend e execução do CRUD
@@ -84,33 +84,33 @@ Fui um desenvolvedor, desenvolvi primariamente o sistema de layout de salas - to
 
 ### 2º semestre (2023-1)
 - Empresa: FATEC SJC, professor Giuliano Bertoti
-- Problema: Falta de gerenciamento de aulas de uma professora, e falta de informações relacionadas as tarefas, turmas, alunos e estatisticas relacionados a tais aulas.
+- Problema: Falta de gerenciamento de aulas de uma professora, e falta de informações relacionadas as tarefas, turmas, alunos e estatísticas relacionados a tais aulas.
 - [Github](https://github.com/Equipe-FULLSTACK/API-2)
-- Solução: Desenvolvimento de um sistema desktop com sistema de cadastro de aulas, tarefas, alunos e turmas, onde é possível cadastrar alunos em uma turma, uma tarefa para um ou varios alunos (também para todos os alunos de uma turma), também o cadastro de aulas relacionadas a uma turma em especifico podendo modificar os alunos independente da turma (para casos raros e excessões), também uma página inicial com todas as informações relevantes no dia-a-dia, e uma área de estatisticas relacionadas aos dados selecionados, como uma tarefa ou uma turma, também uma tela com multiplos temas a serem selecionados.
+- Solução: Desenvolvimento de um sistema desktop com sistema de cadastro de aulas, tarefas, alunos e turmas, onde é possível cadastrar alunos em uma turma, uma tarefa para um ou vários alunos (também para todos os alunos de uma turma), também o cadastro de aulas relacionadas a uma turma em específico podendo modificar os alunos independente da turma (para casos raros e excessões), também uma página inicial com todas as informações relevantes no dia-a-dia, e uma área de estatísticas relacionadas aos dados selecionados, como uma tarefa ou uma turma, também uma tela com múltiplos temas a serem selecionados.
 
 #### Tecnologias
 - Java + Java Swing para o frontend e H2 SQL para o banco de dados.
 
 #### Minha contribuição à equipe
-Fui o PO, estive envolvido em todos os aspectos do software, criei o código base para a geração das telas do frontend e seus objetos, além de desenvolver a prototipação de todas as telas e mostrar elas para o cliente. Desenvolvi o sistema de cadastro de todos os campos, a integração entre as telas, a integração com as bibliotecas externas de calendário e gráficos, a integração com o banco de dados SQL h2 e o sistema de multiplos estilos. Também apresentei o projeto para o professor.
+Fui o PO, estive envolvido em todos os aspectos do software, criei o código base para a geração das telas do frontend e seus objetos, além de desenvolver a prototipação de todas as telas e mostrar elas para o cliente. Desenvolvi o sistema de cadastro de todos os campos, a integração entre as telas, a integração com as bibliotecas externas de calendário e gráficos, a integração com o banco de dados SQL h2 e o sistema de múltiplos estilos. Também apresentei o projeto para o professor.
 
 #### Hard Skills
 - Java: Consigo ensinar
 
 #### Soft Skills
 - Proatividade: Fui o membro da equipe que mais contribuiu para o projeto como mencionado anteriormente, também fui o membro da equipe que fez a comunicação com o cliente e as apresentações, acabei pegando a grande maioria das responsabilidades nesse API.
-- Resiliência: O projeto acabou sendo consideravelmente grande em relação a linhas de código, e em um momento teve muitos bugs, mas acabei não desistindo e focando até o final para resolver os problemas, principalmente em relação a salas e seus alunos possuindo tarefas de uma forma adaptativa, também tive que refazer diversas partes do software multiplas vezes, por bugs ou por não estarem de acordo com a preferência do cliente, exemplos sendo a tela inicial e de cadastro dos alunos, salas e tarefas.
+- Resiliência: O projeto acabou sendo consideravelmente grande em relação a linhas de código, e em um momento teve muitos bugs, mas acabei não desistindo e focando até o final para resolver os problemas, principalmente em relação a salas e seus alunos possuindo tarefas de uma forma adaptativa, também tive que refazer diversas partes do software múltiplas vezes, por bugs ou por não estarem de acordo com a preferência do cliente, exemplos sendo a tela inicial e de cadastro dos alunos, salas e tarefas.
 - Gerenciamento de tempo: Assim como mencionado anteriormente, fui o membro que mais contribuiu código, acabei tendo que gerenciar muito bem meu tempo para poder entregar tudo, principalmente considerando que se eu não fizesse minha parte os outros membros não podiam trabalhar na deles. Isso acabou se mantendo por todas as sprints pois sempre tinha uma nova task para ser desenvolvida, também o fato da equipe ser apenas composta por 4 membros, todos nós tivemos que gerenciar bem nosso tempo.
-- Criatividade: Como eu fui o membro que projetou todo o layout e tive que fazer os fundamentos do software, acabei pensando fora do comum na abordagem de alguns problemas, principalmente relacionados ao código interno, como na parte de integração com o banco de dados, e principalmente em relação a bibliotecas externas que usamos para pequenas features, como a seleção de datas e a parte dos gráficos, pois existia uma grande falta de documentação para tais e muitas opções a serem utilizadas, acabei indo contra o que eu estava acostumado no design de muitas coisas, pois já tinha trabalhado com Java e Swing no passado.
+- Criatividade: Como eu fui o membro que projetou todo o layout e tive que fazer os fundamentos do software, acabei pensando fora do comum na abordagem de alguns problemas, principalmente relacionados ao código interno, como na parte de integração com o banco de dados e principalmente em relação a bibliotecas externas que usamos para pequenas features, como a seleção de datas e a parte dos gráficos, pois existia uma grande falta de documentação para tais e muitas opções a serem utilizadas, acabei indo contra o que eu estava acostumado no design de muitas coisas, pois já tinha trabalhado com Java e Swing no passado.
 
 
 
 ### 3º semestre (2023-2)
 - Empresa: Ionic Health
-- Problema: Nenhuma forma de organização e planejamento digital para a equipe regulatória da Ionic Health, que trabalha com processos que possuem etapas, responsaveis (com seus cargos e permissões) e prazos, causando um gargalo e baixa eficiência.
-- Desenvolver uma plataforma web que funcione tanto em um computador desktop e em mobile para a equipe regulatória e organizacional da Ionic, que possui processos com etapas, responsaveis e prazos. Também um sistema de permissões e cargos, anexos, envio de email e autenticação de dois fatores.
+- Problema: Nenhuma forma de organização e planejamento digital para a equipe regulatória da Ionic Health, que trabalha com processos que possuem etapas, responsáveis (com seus cargos e permissões) e prazos, causando um gargalo e baixa eficiência.
+- Desenvolver uma plataforma web que funcione tanto em um computador desktop e em mobile para a equipe regulatória e organizacional da Ionic, que possui processos com etapas, responsáveis e prazos. Também um sistema de permissões e cargos, anexos, envio de email e autenticação de dois fatores.
 - [Github](https://github.com/Equipe-FULLSTACK/API-3)
-- Solução: Desenvolvimento de um sistema web com sistema de login e gerenciamento de usuários, notificações, cadastro e gerenciamento de processos, tarefas/tasks/etapas, tudo podendo possuir responsaveis e prazos. Com um sistema de anexos, envio de emails e autenticação de dois fatores. Também foi desenvolvido um sistema de cargos e permissões.
+- Solução: Desenvolvimento de um sistema web com sistema de login e gerenciamento de usuários, notificações, cadastro e gerenciamento de processos, tarefas/tasks/etapas, tudo podendo possuir responsáveis e prazos. Com um sistema de anexos, envio de emails e autenticação de dois fatores. Também foi desenvolvido um sistema de cargos e permissões.
 
 #### Tecnologias
 - React como frontend
@@ -128,9 +128,9 @@ Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum 
 - MySQL: Consigo ensinar
 
 #### Soft Skills
-- Resiliência: Na primeira entrega, achavamos que estava tudo bem encaminhado, mas na segunda vimos que a visão do cliente era um tanto diferente da nossa, e tivemos que fazer muitas coisas e reestruturar quase tudo, exemplos sendo o sistema de relação de tarefas e processos que foi refeito 3 vezes, isso foi relativamente frustrante e trabalhoso de se lidar, também houve o dilema da falta de comunicação do cliente em diversos momentos, atrapalhando ainda mais o desenvolvimento, mas apesar de tudo acabamos conseguindo desenvolver o software. Além de membros que não fizeram suas entregas corretamente, logo outros tendo que as completar, exemplo sendo o sistema de email e autenticação de dois fatores.
+- Resiliência: Na primeira entrega, achávamos que estava tudo bem encaminhado, mas na segunda vimos que a visão do cliente era um tanto diferente da nossa, e tivemos que fazer muitas coisas e reestruturar quase tudo, exemplos sendo o sistema de relação de tarefas e processos que foi refeito 3 vezes, isso foi relativamente frustrante e trabalhoso de se lidar, também houve o dilema da falta de comunicação do cliente em diversos momentos, atrapalhando ainda mais o desenvolvimento, mas apesar de tudo acabamos conseguindo desenvolver o software. Além de membros que não fizeram suas entregas corretamente, logo outros tendo que as completar, exemplo sendo o sistema de email e autenticação de dois fatores.
 - Proatividade: Fui o PO e logo acabei tendo que tomar a iniciativa de muitas coisas, indo atrás de fazer muitas coisas, como na primeira sprint onde faltavam muitas features que deviamos entregar e acabei desenvolvendo elas sozinho, além de ajudar diversos membros com suas tasks, como no sistema de email (que acabou não funcionando e teve que ser refeito) e no sistema de autenticação de dois fatores. Também fui atrás de comunicar com a empresa.
-- Gerenciamento de tempo: Acabamos tendo que refazer muita coisa, e isso foi muito intenso em relação ao tempo de desenvolvimento, então tive que ser muito eficiente principalmente na terceira e quarta sprint, tive que reescrever algumas partes como o sistema de relação de tarefas e processos multiplas vezes, mas de forma eficiente para conseguir fazer as entregas.
+- Gerenciamento de tempo: Acabamos tendo que refazer muita coisa, e isso foi muito intenso em relação ao tempo de desenvolvimento, então tive que ser muito eficiente principalmente na terceira e quarta sprint, tive que reescrever algumas partes como o sistema de relação de tarefas e processos múltiplas vezes, mas de forma eficiente para conseguir fazer as entregas.
 
 
 
@@ -138,7 +138,7 @@ Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum 
 - Empresa: SIATT, Sistemas Integrados de Alto Teor Tecnológico na área de defesa e aeroespacial.
 - Problema: A falta de um sistema próprio para o gerenciamento de reserva de salas de reunião, isso sendo feito através de programas de terceiros com documentação, comunicação e planejamento manuais.
 - [Github](https://github.com/Equipe-FULLSTACK/API-4)
-- Solução: Desenvolvimento de um sistema web para o gerenciamento de reserva de salas de reunião, possuindo multiplos de sala e tipos de reuniões, com sistema de login e cadastro de usuários, cadastro e gerenciamento de salas, reuniões e permissões/cargos, tudo relacionado a horários, possuindo um sistema de agendamento.
+- Solução: Desenvolvimento de um sistema web para o gerenciamento de reserva de salas de reunião, possuindo múltiplos tipos de sala e tipos de reuniões, com sistema de login e cadastro de usuários, cadastro e gerenciamento de salas, reuniões e permissões/cargos, tudo relacionado a horários, possuindo um sistema de agendamento.
 
 #### Tecnologias
 - React como frontend
@@ -147,7 +147,7 @@ Fui o PO, tive interação constante com o cliente, trabalhei junto com o Scrum 
 - MySQL como sistema de banco de dados
 
 #### Minha contribuição à equipe
-Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integração base das rotas do backend, além do processamento de dados relacionados, mas isso acabou sendo uma task que envolvia multiplas pessoas, também fiz a base fundamental da integração com o Zoom, mas que acabou também se tornando uma task que envolvia multiplas pessoas. Também ajudei no planejamento e execução do banco de dados.
+Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integração base das rotas do backend, além do processamento de dados relacionados, mas isso acabou sendo uma task que envolvia múltiplas pessoas, também fiz a base fundamental da integração com o Zoom, mas que acabou também se tornando uma task que envolvia múltiplas pessoas. Também ajudei no planejamento e execução do banco de dados.
 
 #### Hard Skills
 - React: Consigo fazer com ajuda
@@ -156,15 +156,15 @@ Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integra
 - MySQL: Consigo ensinar
 
 #### Soft Skills
-- Criatividade: Tive que inventar muita coisa e "me virar" para resolver varios problemas relacionados a integração com o Zoom, pois ninguém sabia de nada relacionado a isso e a documentação muitas vezes não era clara, mas com experimentação e raciocinio acabou sendo resolvido o dilema.
+- Criatividade: Tive que inventar muita coisa e "me virar" para resolver varios problemas relacionados a integração com o Zoom, pois ninguém sabia de nada relacionado a isso e a documentação muitas vezes não era clara, mas com experimentação e raciocínio acabou sendo resolvido o dilema.
 - Flexibilidade: Acabei tendo que sair do que estou acostumado e de minhas preferencias, por não ter colaborado tanto como nas APIs anteriores, tendo que utilizar código com uma estrutura diferente, além de uma abordagem um tanto diferente, exemplos sendo as rotas do CRUD do backend, e todo o padrão do código.
-- Trabalho em equipe: Acabei dependendo mais da minha equipe, além de membros que dependiam de mim, pois a maioria das tasks da sprint eram simples, mas trabalhosas e tinham de ser resolvidas por multiplas pessoas.
+- Trabalho em equipe: Acabei dependendo mais da minha equipe, além de membros que dependiam de mim, pois a maioria das tasks da sprint eram simples, mas trabalhosas e tinham de ser resolvidas por múltiplas pessoas.
 
 
 
 ### 5º semestre (2024-2)
 - Empresa: Kersys, empresa de gestão florestal
-- Problema: A incapacidade do acompanhamento de dados climáticos de um ponto especifico para produtores rurais.
+- Problema: A incapacidade do acompanhamento de dados climáticos de um ponto específico para produtores rurais.
 - [Github](https://github.com/Equipe-FULLSTACK/API-5)
 - Solução: Desenvolvimento de um aplicativo mobile com sistema de cadastro de pontos, exibindo dados climáticos (temperatura, pluviometria e umidade) desses locais. Os dados são apresentados em tempo real mas possuem um histórico, visível por meio de gráficos. O sistema inclui notificações customizáveis caso algum valor de um ponto ultrapasse um limiar definido.
 
@@ -175,7 +175,7 @@ Fui um desenvolvedor, foi a API que menos tive impacto, acabei fazendo a integra
 - MongoDB como sistema de banco de dados
 
 #### Minha contribuição à equipe
-Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicação com o cliente. Além disso, também trabalhei no backend, focando principalmente com as integrações com APIs internas, como do Google Maps, API de dados climáticos da NASA e depois a Weather Forecast API da Open-Meteo.
+Fui o Product Owner (PO), sendo responsável pelas apresentações e a comunicação com o cliente. Além disso, também trabalhei no backend, focando principalmente nas integrações com APIs internas, como do Google Maps, API de dados climáticos da NASA e depois a Weather Forecast API da Open-Meteo.
 
 #### Hard Skills
 - React: Consigo fazer com ajuda
@@ -192,14 +192,14 @@ Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicaç
 
 ### 6º semestre (2025-1)
 - Empresa: Dom Rock
-- Problema: A falta de informação para guiar pacientes e principalmente cuidadores de tais pacientes quanto a questões relacionadas a doença de Alzheimer.
+- Problema: A falta de informação para guiar pacientes e principalmente cuidadores de tais pacientes quanto a questões relacionadas à doença de Alzheimer.
 - [Github](https://github.com/FATEC-FULLSTACK/API6)
 - Solução: Desenvolvimento de uma plataforma para fazer perguntas para LLMs (Large Language Models) e para o treinamento de tais modelos com RLHF (Reinforcement Learning with Human Feedback) e RAG (Retrieval-Augmented Generation).
 
 #### Tecnologias
 - Vue.js como frontend.
 - Python como backend, com diversas bibliotecas/frameworks, principalmente LangChain e FastAPI.
-- MongoDB como sistema de banco de dados, tanto relacional tanto vetorial.
+- MongoDB como sistema de banco de dados, tanto relacional quanto vetorial.
 
 #### Minha contribuição à equipe
 Minha função foi a de Product Owner (PO), sendo responsável pela comunicação com o cliente e pela apresentação do projeto a ele e a outros indivíduos relevantes, como o professor responsável pela seleção dos artigos utilizados para a elaboração do banco de dados empregado na execução do RAG no Parque Tecnológico. A comunicação, como um todo, foi mais extensa do que nas outras APIs, além de eu ter tido que interagir muito mais com o professor P2, como PO trabalhei na documentação (critérios, MVP, DOR, DOD, user stories e backlogs) e no mockup do projeto no Figma.

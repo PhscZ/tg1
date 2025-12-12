@@ -9,7 +9,7 @@
 
 
 ## INTRODUÇÃO
-Meu nome é Pedro Henrique Siqueira Cardoso, tenho 22 anos e estou no sexto semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Minha trajetória com programação começou cedo, quando eu tinha cerca de 11 ou 12 anos. Naquela época, meu interesse foi despertado enquanto jogava jogos em Flash e queria criar meus próprios, ou enquanto jogava Minecraft e desejava modificar o jogo. Também me intrigava entender como as coisas que eu fazia no computador funcionavam. No entanto, minha jornada na área começou formalmente em 2017, aos 15 anos, quando iniciei o Curso Técnico em Tecnologia da Informação pela UNIVAP, simultaneamente ao ensino médio, concluindo em 2019.
+Meu nome é Pedro Henrique Siqueira Cardoso, tenho 23 anos e estou no sexto semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos. Minha trajetória com programação começou cedo, quando eu tinha cerca de 11 ou 12 anos. Naquela época, meu interesse foi despertado enquanto jogava jogos em Flash e queria criar meus próprios, ou enquanto jogava Minecraft e desejava modificar o jogo. Também me intrigava entender como as coisas que eu fazia no computador funcionavam. No entanto, minha jornada na área começou formalmente em 2017, aos 15 anos, quando iniciei o Curso Técnico em Tecnologia da Informação pela UNIVAP, simultaneamente ao ensino médio, concluindo em 2019.
 
 Desde o início, sempre tive interesse em trabalhos autônomos, atuando como freelancer desde 2018 até o presente — com períodos de maior e menor atividade. Em 2020, servi ao exército, e em 2021, me matriculei na FATEC com o objetivo de retornar à área em que já tinha experiência, buscando um desenvolvimento mais estruturado para alcançar maior estabilidade no futuro.
 
@@ -192,9 +192,9 @@ Fui o Product Owner (PO), sendo responsável pelas apresentações e a comunica�
 
 ### 6º semestre (2025-1)
 - Empresa: Dom Rock
-- Problema: A falta de informação para guiar pacientes e principalmente cuidadores de tais pacientes quanto a questões relacionadas à doença de Alzheimer.
+- Problema: A falta de informação de qualidade quanto a doença de Alzheimer, tanto para quem sofre da doença quanto para seus cuidadores.
 - [Github](https://github.com/FATEC-FULLSTACK/API6)
-- Solução: Desenvolvimento de uma plataforma para fazer perguntas para LLMs (Large Language Models) e para o treinamento de tais modelos com RLHF (Reinforcement Learning with Human Feedback) e RAG (Retrieval-Augmented Generation).
+- Solução: Desenvolvimento de uma plataforma para fazer perguntas a LLMs (Large Language Models) e para o treinamento desses modelos com RLHF (Reinforcement Learning with Human Feedback) e RAG (Retrieval-Augmented Generation) garantindo a entrega de informações de qualidade.
 
 #### Tecnologias
 - Vue.js como frontend.

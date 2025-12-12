@@ -194,7 +194,7 @@ Fui o Produt Owner (PO), sendo responsável pelas apresentações e a comunicaç
 - Empresa: Dom Rock
 - Problema: A falta de informação para guiar pacientes e principalmente cuidadores de tais pacientes quanto a questões relacionadas a doença de Alzheimer.
 - [Github](https://github.com/FATEC-FULLSTACK/API6)
-- Solução: Desenvolvimento de uma interface para fazer perguntas para LLMs (Large Language Models) e o treinamento de tais modelos com RLHF (Reinforcement Learning with Human Feedback) e RAG (Retrieval-Augmented Generation).
+- Solução: Desenvolvimento de uma plataforma para fazer perguntas para LLMs (Large Language Models) e para o treinamento de tais modelos com RLHF (Reinforcement Learning with Human Feedback) e RAG (Retrieval-Augmented Generation).
 
 #### Tecnologias
 - Vue.js como frontend.
